@@ -1,0 +1,9 @@
+Frame 1: he home screen of the app where users can roll two dices in one click
+
+Frame 2: User clicks on the roll button
+
+Frame 3: An alert message will pop to enter the number of sides for the dice
+
+Frame 4: On entering the value and click ok, the page will display the result of the roll
+
+Frame 5: The action can be repeated by clicking roll button again
